@@ -1,0 +1,53 @@
+[
+    {
+        "name": "giant Pandas",
+        "native": "Native to Southwest China",
+        "namebg": "giant Pandas",
+        "countrybg": "Southwest China",
+        "photo": "slider-1.png",
+        "icon": "banana-bamboo-icon.svg"
+
+    },
+    {
+        "name": "Two-toed Sloth",
+        "native": "Mesoamerica, South America",
+        "namebg": "Two-toed Sloth",
+        "countrybg": "South America",
+        "photo": "slider-2.png",
+        "icon": "meet-fish-icon.svg"
+
+    },
+    {
+        "name": "Eagles",
+        "native": "Native to South America",
+        "namebg": "Eagles",
+        "countrybg": "South America",
+        "photo": "slider-3.png",
+        "icon": "meet-fish-icon.svg"
+
+    },
+    {
+        "name": "cheetahs",
+        "native": "Native to Africa",
+        "namebg": "Alligators",
+        "countrybg": "Southeastern U. S.",
+        "photo": "slider-4.png",
+        "icon": "meet-fish-icon.svg"
+    },
+    {
+        "name": "Gorillas",
+        "native": "Native to Congo",
+        "namebg": "Gorillas",
+        "countrybg": "Congo",
+        "photo": "slider-5.png",
+        "icon": "banana-bamboo-icon.svg"
+    },
+    {
+        "name": "Penguins",
+        "native": "Native to Antarctica",
+        "namebg": "Penguins",
+        "countrybg": "Antarctica",
+        "photo": "slider-6.png",
+        "icon": "meet-fish-icon.svg"
+    }
+]
